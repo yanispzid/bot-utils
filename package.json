@@ -1,1 +1,11 @@
-
+{
+  "name": "bot-utils",
+  "version": "1.0.0",
+  "main": "utils.js",
+  "scripts": {
+    "start": "node utils.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
